@@ -4,6 +4,8 @@
 
 FastAPI · Next.js 16 · Python · MIT License · Hybrid AI + ML
 
+📁 **Project Assets & Demo Video:** [Google Drive Resources](https://drive.google.com/drive/u/0/folders/1Nr_pRQrUWN6ily2lMvIovH858D9DczW4)
+
 **Quick Start:** Upload your messy dataset, let AI diagnose the issues, preview the recommended fixes, train ML models on your cleaned data, and export the results — all from a visual node-based pipeline editor.
 
 ---
