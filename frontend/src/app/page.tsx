@@ -262,7 +262,7 @@ export default function Home() {
 
         <div className="relative z-10 mt-4">
           <h1 className="text-4xl sm:text-6xl font-extrabold tracking-tight mb-2">
-            <span className="gradient-text">Data Sakti</span>
+            <span className="gradient-text">Data Nova</span>
             <span className="text-text-primary"> AI</span>
           </h1>
           <p className="text-text-muted text-xs sm:text-sm font-medium max-w-md mx-auto">
@@ -732,7 +732,7 @@ export default function Home() {
       {/* ── Footer ────────────────────────────────────────── */}
       <footer className="py-6 text-center border-t border-border-subtle relative z-10">
         <p className="text-text-muted text-xs">
-          Data Sakti AI · Built with Next.js, Gemini & FastAPI
+          Data Nova AI · Built with Next.js, Gemini & FastAPI
         </p>
       </footer>
 

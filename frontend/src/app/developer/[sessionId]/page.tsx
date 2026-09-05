@@ -53,7 +53,7 @@ export default function DeveloperPage() {
         <div className="relative z-10 flex items-center gap-4">
           <Link href="/">
             <h1 className="text-xl font-extrabold tracking-tight">
-              <span className="gradient-text">Data Sakti</span>
+              <span className="gradient-text">Data Nova</span>
               <span className="text-text-primary"> AI</span>
             </h1>
           </Link>

@@ -4,12 +4,12 @@ import { ThemeProvider } from "@/lib/ThemeContext";
 import { SessionProvider } from "@/lib/SessionContext";
 
 export const metadata: Metadata = {
-  title: "Data Sakti AI — AI-Powered Data Diagnostics",
+  title: "Data Nova AI — AI-Powered Data Diagnostics",
   description: "AI-powered data diagnostics and remediation.",
   icons: {
     icon: "/favicon.ico",
   },
-  authors: [{ name: "Data Sakti AI" }],
+  authors: [{ name: "Data Nova AI" }],
 };
 
 export default function RootLayout({

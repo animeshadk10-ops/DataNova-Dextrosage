@@ -57,7 +57,7 @@ export default function GeminiWelcomeModal({ isOpen, onStart }: GeminiWelcomeMod
             <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
               <span className="text-text-primary">Welcome to </span>
               <span className="gradient-text">
-                Data Sakti AI
+                Data Nova AI
               </span>
             </h2>
             <p className="text-text-muted text-sm sm:text-base max-w-lg mx-auto leading-relaxed">
@@ -108,7 +108,7 @@ export default function GeminiWelcomeModal({ isOpen, onStart }: GeminiWelcomeMod
             </div>
           </div>
 
-          {/* Action Button: Try Data Shakti */}
+          {/* Action Button: Try Data Nova */}
           <div className="flex flex-col items-center gap-3">
             <motion.button
               whileHover={{ scale: 1.03 }}
@@ -116,7 +116,7 @@ export default function GeminiWelcomeModal({ isOpen, onStart }: GeminiWelcomeMod
               onClick={onStart}
               className="btn-gradient relative group px-10 py-4 rounded-2xl font-bold text-lg text-white shadow-[0_0_30px_rgba(255,148,8,0.4)] transition-all duration-300 w-full sm:w-auto min-w-[240px] flex items-center justify-center gap-3 border border-white/20"
             >
-              <span>Try Data Shakti</span>
+              <span>Try Data Nova</span>
               <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
             </motion.button>
 

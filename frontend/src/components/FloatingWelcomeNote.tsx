@@ -43,7 +43,7 @@ export default function FloatingWelcomeNote() {
               </div>
               <div>
                 <h4 className="text-xs font-bold text-text-primary flex items-center gap-1.5">
-                  Data Sakti AI
+                  Data Nova AI
                   <span className="inline-flex items-center gap-1 px-1.5 py-0.2 rounded-full bg-[var(--accent-primary)]/15 text-[var(--accent-primary)] text-[10px] border border-[var(--accent-primary)]/30 font-semibold">
                     Live
                   </span>
